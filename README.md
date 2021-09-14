@@ -20,6 +20,6 @@ El cliente envía un archivo csv el cual contiene email, domicilios y teléfonos
 
 
 
--## Reporte Monitor
+- ## Reporte Monitor
 Este código nos agrupa y muestra por día conteos de diferentes datos como el número de ejecutivos telefónicos activos, el número de teléfonos disponibles, cuantos teléfonos se pueden gestionar según sus características, etc. Este resumen ayuda a los tomadores de decisiones a visualizar más fácilmente, el estado historico de sus medios de producción y así poder planear mejor la operación futura.
 ![image](https://user-images.githubusercontent.com/60297250/133321121-c7d0cd85-a505-48c3-8816-8a426a23a7d2.png)
